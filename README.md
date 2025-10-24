@@ -23,7 +23,7 @@ I'm a **Full Stack Developer** passionate about crafting seamless digital experi
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/aneesh-rahman-mp-909500252/)
+- [LinkedIn](https://www.linkedin.com/in/aneesh-rahman-mp/)
 - [GitHub](https://github.com/AneeshRahman)
 
 ---
