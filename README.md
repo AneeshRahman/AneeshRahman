@@ -2,6 +2,12 @@
 # 💫 About Me:
 I'm a **Full Stack Developer** passionate about crafting seamless digital experiences. Whether it's pixel-perfect UIs or robust backends, I love working across the stack to bring ideas to life.
 
+🔭 I’m currently working on UniPrep and real-world company websites & dashboards
+🤝 I’m looking to collaborate on full-stack products that solve real problems
+🌱 I’m currently learning Next.js, TypeScript & performance-focused architecture
+💬 Ask me about React, Node.js, Express, MongoDB, Tailwind & UI/UX improvements
+⚡ Fun fact: I love recreating high-end product experiences with clean, scalable code 🚀
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh-rahman-mp) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aneeshmp165) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Roman_369) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeshmp165@gmail.com) 
