@@ -2,10 +2,10 @@
 # 💫 About Me:
 I'm a **Full Stack Developer** passionate about crafting seamless digital experiences. Whether it's pixel-perfect UIs or robust backends, I love working across the stack to bring ideas to life.
 
-🔭 I’m currently working on UniPrep and real-world company websites & dashboards
-🤝 I’m looking to collaborate on full-stack products that solve real problems
-🌱 I’m currently learning Next.js, TypeScript & performance-focused architecture
-💬 Ask me about React, Node.js, Express, MongoDB, Tailwind & UI/UX improvements
+🔭 I’m currently working on UniPrep and real-world company websites & dashboards</br>
+🤝 I’m looking to collaborate on full-stack products that solve real problems</br>
+🌱 I’m currently learning Next.js, TypeScript & performance-focused architecture</br>
+💬 Ask me about React, Node.js, Express, MongoDB, Tailwind & UI/UX improvements</br>
 ⚡ Fun fact: I love recreating high-end product experiences with clean, scalable code 🚀
 
 
