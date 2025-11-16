@@ -1,6 +1,3 @@
-# 👋 Hi, I'm Aneesh Rahman!
-
-
 
 # 💫 About Me:
 I'm a **Full Stack Developer** passionate about crafting seamless digital experiences. Whether it's pixel-perfect UIs or robust backends, I love working across the stack to bring ideas to life.
