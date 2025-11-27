@@ -1,12 +1,12 @@
 
 # 💫 About Me:
-I'm a **Full Stack Developer** passionate about crafting seamless digital experiences. Whether it's pixel-perfect UIs or robust backends, I love working across the stack to bring ideas to life.
+I'm a Full Stack Developer with a growing background in cybersecurity, passionate about delivering fast, modern, and secure digital experiences. I enjoy crafting pixel-perfect UIs, optimizing backend systems, and ensuring the security of the applications I build.
 
-🔭 I’m currently working on UniPrep and real-world company websites & dashboards</br>
-🤝 I’m looking to collaborate on full-stack products that solve real problems</br>
-🌱 I’m currently learning Next.js, TypeScript & performance-focused architecture</br>
-💬 Ask me about React, Node.js, Express, MongoDB, Tailwind & UI/UX improvements</br>
-⚡ Fun fact: I love recreating high-end product experiences with clean, scalable code 🚀
+🔭 Building UniPrep, client projects, and real-world dashboards</br>
+🤝 Open to collaborations on impactful full-stack applications</br>
+🌱 Learning Next.js, TypeScript & advanced performance techniques</br>
+💬 Ask me about React, Node.js, Express, MongoDB, Tailwind, UI/UX optimization, and basic security best practices</br>
+⚡ Fun fact: I enjoy rebuilding premium product experiences with a focus on speed and security 🚀
 
 
 ## 🌐 Socials:
