@@ -2,7 +2,7 @@
 # 💫 About Me:
 I'm a Full Stack Developer with a growing background in cybersecurity, passionate about delivering fast, modern, and secure digital experiences. I enjoy crafting pixel-perfect UIs, optimizing backend systems, and ensuring the security of the applications I build.
 
-🔭 Building UniPrep, client projects, and real-world dashboards</br>
+🔭 Building  projects, and real-world dashboards</br>
 🤝 Open to collaborations on impactful full-stack applications</br>
 🌱 Learning Next.js, TypeScript & advanced performance techniques</br>
 💬 Ask me about React, Node.js, Express, MongoDB, Tailwind, UI/UX optimization, and basic security best practices</br>
