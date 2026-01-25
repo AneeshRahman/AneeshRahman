@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm a Full Stack Developer with a growing background in cybersecurity, passionate about delivering fast, modern, and secure digital experiences. I enjoy crafting pixel-perfect UIs, optimizing backend systems, and ensuring the security of the applications I build.
+I'm a Full Stack Developer with a growing background in Cybersecurity & Ai, passionate about delivering fast, modern, and secure digital experiences. I enjoy crafting pixel-perfect UIs, optimizing backend systems, and ensuring the security of the applications I build.
 
 🔭 Building  projects, and real-world dashboards</br>
 🤝 Open to collaborations on impactful full-stack applications</br>
